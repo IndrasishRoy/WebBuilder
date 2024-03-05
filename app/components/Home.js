@@ -14,7 +14,7 @@ const Home = () => {
   };
   return (
     <div>
-      <div className="w-full mt-28">
+      <div className="w-full mt-12">
         <h1 className="font-normal text-5xl text-[#3f3f3f] pb-4">
           Best Website builders in the US
         </h1>
